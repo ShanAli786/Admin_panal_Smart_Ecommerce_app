@@ -1,0 +1,45 @@
+const appname = "Smart Shopping App",
+    login = "Login",
+    welcome = "Hi, Welcome to",
+    email = "Email",
+    password = "Password",
+    
+    forgotPassword = "Forgot Password?",
+    anyProblem = "In case of any difficulty, contact administration",
+    credit = "@Techard",
+    paswordhint = "*******",
+    
+
+    emailHint = "shan@gmail.com";
+    const rating = "Ratings",
+          dashboard = "Dashboard",
+    orders = "Orders",
+    settings = "Settings",
+    products = "Products",
+    popular = "Popular Products",
+    unpaid = "unpaid",
+    edit = "Edit",
+    remove = "Remove",
+    featured = "Featured",
+    shopSettings = "Shop Settings",
+    message = "Messages",
+    save = "Save",
+    eidtprofile = "Edit Profile",
+    changeImage = "Change Image",
+          totalsale = "Total Sale",
+          name= "Username",
+          orderdetails = "Order Details",
+          confirmpassword = "Confirm Password";
+
+          const nameHint = "e.g vendor name",
+                shopdescHint = "Enter your Shop Description",
+                shopwebsiteHint = "eg. smartshopping.com",
+                shopmobileHint = "eg. 03364489255",
+                shopaddressHint = "eg. Near Awan chock",
+                description = "Description",
+                mobile = "Shop Mobile",
+                website = "Website",
+                shopname = "Shop Name",
+                // ignore: constant_identifier_names
+                username = "chat",
+                address = "Shop Address";
